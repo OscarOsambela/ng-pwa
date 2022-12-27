@@ -15,10 +15,10 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:browser",
+          "builder": "@angular-devkittPath": "dist/ng-pwa",
+            "index": "src/index.html",/build-angular:browser",
           "options": {
-            "outputPath": "dist/ng-pwa",
-            "index": "src/index.html",
+            "outpu
             "main": "src/main.ts",
             "polyfills": [
               "zone.js"
